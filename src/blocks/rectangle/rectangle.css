@@ -1,0 +1,11 @@
+.rectangle {
+  border: 1px solid #ff0000;
+    box-sizing: border-box;
+    height: 1000px;
+    margin: 0;
+    opacity: .1;
+    padding: 0;
+    position: absolute;
+    width: 1000px;
+    z-index: -2;
+}
